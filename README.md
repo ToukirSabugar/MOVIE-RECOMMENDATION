@@ -1,2 +1,2 @@
-# movi
+# movie
 movierecommendation
